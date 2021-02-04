@@ -1,0 +1,59 @@
+h2 {
+  margin: 0;
+  margin-top: 70px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.back {
+  background-color: #41b3a3;
+}
+
+.box {
+  height: 220px;
+  width: 460px;
+}
+
+.pink-box {
+  background-color: #c38d9e;
+  border: 10px;
+  padding: 20px;
+}
+
+.red-box {
+  background-color: #e27b60;
+  border: 10px;
+  padding: 20px;
+}
+
+.redpose {
+  position: absolute;
+  top: 520px;
+  left: 1000px;
+}
+
+.gold-box {
+  background-color: #e8a87c;
+  border: 10px;
+  padding: 20px;
+}
+
+.pinkpose {
+  position: absolute;
+  top: 260px;
+  left: 500px;
+}
+
+.goldpose {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.float {
+  float: left;
+}
+
+.float2 {
+  float: right;
+}
